@@ -9,12 +9,6 @@
 
 - 🌱 I’m currently learning **Deep Learning, Generative AI, LangChain, LLMs, Docker, AWS, and Advanced DSA, Playwright**
 
-- 👯 I’m looking to collaborate on **AI/ML, Python, MERN Stack, Open Source, and Software Development Projects**
-
-- 🤝 I’m looking for help with **MLOps, Cloud Deployment and System Design**
-
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, React.js, Node.js, MongoDB, Software Testing, and Full Stack Development**
-
 - 📫 How to reach me **mettisindhu38@gmail.com**
 
 - ⚡ Fun fact **I enjoy turning innovative ideas into real-world AI applications and solving challenging problems through code.**
